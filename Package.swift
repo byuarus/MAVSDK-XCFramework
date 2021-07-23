@@ -12,6 +12,6 @@ let package = Package(
   targets: [
     .binaryTarget(name: "mavsdk_server",
                   url: "https://github.com/byuarus/MAVSDK/releases/download/0.41.0.dima/mavsdk_server.xcframework.zip",
-                  checksum: "18ab177f30c89f8b82430c7034e39556575956598a0d66496b743cc2537abe65")
+                  checksum: "2b04571342a8d827dc51b10082fc66dc0049dec2fe764279c608c945ed5aef07")
   ]
 )
